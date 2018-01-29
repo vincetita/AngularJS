@@ -1,3 +1,6 @@
+:root{
+    --themecolor:#4286f4;    
+}
 h1{
-    color: brown;
+    color:var(--themecolor);
 }
